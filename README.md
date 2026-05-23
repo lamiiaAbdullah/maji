@@ -44,9 +44,11 @@ Marja'a provides an integrated platform that includes:
 - Improved UX for users with disabilities
 
  ## Screenshot
-<img width="1470" height="956" alt="Screenshot 1447-12-01 at 9 43 40 PM" src="https://github.com/user-attachments/assets/0d1815c9-7f1e-4a5e-a034-6e4c24f50fbf" />
-<img width="1470" height="956" alt="Screenshot 1447-12-01 at 9 43 35 PM" src="https://github.com/user-attachments/assets/efcbf7bd-6ee4-4e3f-9bb3-5e8369fef9c3" />
-<img width="1470" height="956" alt="Screenshot 1447-12-01 at 9 43 33 PM" src="https://github.com/user-attachments/assets/04f2c2ef-1034-4cf9-a7e4-b2c10b0993da" />
+<img width="1470" height="956" alt="Screenshot 1447-12-06 at 6 20 27 PM" src="https://github.com/user-attachments/assets/86f11e1b-86ae-4b81-8086-6142440a484f" />
+<img width="1470" height="956" alt="Screenshot 1447-12-06 at 6 20 14 PM" src="https://github.com/user-attachments/assets/fec373a1-83f3-4bf5-829a-e0a4d3bec82d" />
+<img width="1470" height="956" alt="Screenshot 1447-12-06 at 6 20 00 PM" src="https://github.com/user-attachments/assets/6c88ec37-73bb-4bf5-a626-7e98158ae579" />
+
+
 ## 🛠️ Technologies Used
 - **Figma** — UI Design
 - **Visily** — UX Flow & Prototyping

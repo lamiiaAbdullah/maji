@@ -49,8 +49,7 @@ Marja'a provides an integrated platform that includes:
 
 ## 🎥 Demo
 🟣 [Open Interactive Prototype (Visily)](https://app.visily.ai/projects/20207cae-324a-46a3-b4cb-a778e3b2bf57/boards/2524001/presenter?play-mode=All+screens)
-https://marji-student-portal.netlify.app
-## 🚀 Scalability
+🌐 [Live Website (Netlify)](https://marji-student-portal.netlify.app)## 🚀 Scalability
 Marja'a is designed to be easily deployable within universities, with the ability to integrate with existing learning management systems and evolve into an official unified platform.
 
 ## 🎯 Expected Impact

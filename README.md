@@ -43,6 +43,10 @@ Marja'a provides an integrated platform that includes:
 - Sign language support
 - Improved UX for users with disabilities
 
+ ## Screenshot
+<img width="1470" height="956" alt="Screenshot 1447-12-01 at 9 43 40 PM" src="https://github.com/user-attachments/assets/0d1815c9-7f1e-4a5e-a034-6e4c24f50fbf" />
+<img width="1470" height="956" alt="Screenshot 1447-12-01 at 9 43 35 PM" src="https://github.com/user-attachments/assets/efcbf7bd-6ee4-4e3f-9bb3-5e8369fef9c3" />
+<img width="1470" height="956" alt="Screenshot 1447-12-01 at 9 43 33 PM" src="https://github.com/user-attachments/assets/04f2c2ef-1034-4cf9-a7e4-b2c10b0993da" />
 ## 🛠️ Technologies Used
 - **Figma** — UI Design
 - **Visily** — UX Flow & Prototyping

@@ -1,50 +1,72 @@
-🎓 مرجِع | Marja
+🎓 Marja'a | مرجِع
+A smart university platform designed to unify the student academic experience in one place — providing lectures, learning resources, student interaction, and comprehensive accessibility support.
+📌 Project Idea
+University students struggle with scattered academic content across multiple platforms, difficulty revisiting lectures, weak interaction, and limited accessibility for students with disabilities. Marja'a was built to be a unified digital gateway that brings everything a student needs into one place.
+🎯 Problem
 
-منصة جامعية ذكية تهدف إلى توحيد تجربة الطالب الأكاديمية في مكان واحد، عبر توفير المحاضرات، الموارد التعليمية، التفاعل الطلابي، ودعم شامل لذوي الاحتياجات الخاصة.
+Academic content and lectures are scattered across multiple platforms
+Difficulty reviewing content at any time
+Weak academic communication between students
+Limited accessibility services for students with disabilities
 
-📌 فكرة المشروع
+💡 Solution
+Marja'a provides an integrated platform that includes:
 
-يعاني طلاب الجامعات من تشتت المحتوى الأكاديمي بين منصات متعددة، وصعوبة إعادة المحاضرات، وضعف التفاعل، إضافة إلى محدودية دعم ذوي الاحتياجات الخاصة.
+🎥 Lecture recordings accessible anytime
+📝 Organized educational content (Modules)
+💬 Student community for interaction and discussion
+📚 Educational resource library
+🧠 Smart content recommendations
+♿ Comprehensive accessibility support
 
-جاءت منصة مرجِع لتكون بوابة رقمية موحدة تجمع كل ما يحتاجه الطالب في رحلته الجامعية.
+✨ Key Features
+🎓 Integrated Academic Experience
 
-🎯 المشكلة
+View courses and study materials
+Content organized by college and major
+Track academic progress
 
-تشتت المحاضرات والمواد التعليمية
-صعوبة مراجعة المحتوى في أي وقت
-ضعف التواصل الأكاديمي بين الطلاب
-محدودية خدمات الوصول لذوي الاحتياجات الخاصة
-💡 الحل
+▶️ Educational Content Player
 
-يوفر مرجِع منصة متكاملة تشمل:
+Watch recorded lectures
+Content organized into modules
+Enhanced learning experience
 
-🎥 إعادة المحاضرات ومشاهدتها في أي وقت
-📝 عرض المحتوى التعليمي بشكل منظم (Modules)
-💬 مجتمع طلابي للتفاعل والمناقشة
-📚 مكتبة موارد تعليمية
-🧠 توصيات ذكية للمحتوى
-♿ دعم شامل لذوي الاحتياجات الخاصة
-✨ المميزات الرئيسية
+💬 Student Interaction (Marja'ai)
 
-🎓 تجربة أكاديمية متكاملة
+Ask questions
+Share summaries
+Discuss topics with peers
 
-عرض المقررات الدراسية
-تنظيم المحتوى حسب الكلية والتخصص
-متابعة التقدم الأكاديمي
-▶️ مشغل المحتوى التعليمي
+♿ Accessibility
 
-مشاهدة المحاضرات
-تنظيم المحتوى على شكل وحدات (Modules)
-تحسين تجربة التعلم
-💬 التفاعل الطلابي (مرجِعي)
+Text zoom
+High contrast mode
+Screen reader support
+Sign language support
+Improved UX for users with disabilities
 
-طرح الأسئلة
-مشاركة الملخصات
-النقاش بين الطلاب
-♿ الوصول الشامل (Accessibility)
+🛠️ Technologies Used
 
-تكبير النص
-تباين عالي
-قارئ شاشة
-دعم لغة الإشارة
-تحسين تجربة المستخدم لذوي الإعاقة
+Figma — UI Design
+Visily — UX Flow & Prototyping
+
+🎥 Demo
+Explore the full interactive prototype of Marja'a:
+🟣 Open Interactive Prototype (Visily)
+🚀 Scalability
+Marja'a is designed to be easily deployable within universities, with the ability to integrate with existing learning management systems and evolve into an official unified platform.
+🎯 Expected Impact
+
+Improved student access to educational content
+Increased academic engagement
+Better support for students with disabilities
+Enhanced overall learning experience within universities
+
+👥 Team
+
+Sanaa Abdulnour Saleh Hassan
+Khalid Ahmed Shaikhin
+Abdullah Jamal Qattan
+Lamia Abdullah Al-Shamrani
+Nouf Nasser Al-Dossari
